@@ -1,0 +1,20 @@
+.h2 {
+    width: 150px;
+    padding: 5px;
+    padding-left: 500px;
+}
+
+.h3 {
+    width: 150px;
+    padding: 5px;
+    padding-left: 550px;
+}
+
+th,td {
+    width: 150px;
+    text-align: center;
+    border-spacing: 100px;
+    padding-left: 5px;
+    
+    
+}
